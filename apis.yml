@@ -33,13 +33,12 @@ x-category: "Art & Design"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Art And Design
   - Public APIs
+  - Image Generation
 apis:
   - name: Word Cloud
     description: "Easily create word clouds"
     humanURL: https://wordcloudapi.com/
-    baseURL: https://wordcloudapi.com/
     tags:
       - Art And Design
     properties:
@@ -55,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Art And Design
