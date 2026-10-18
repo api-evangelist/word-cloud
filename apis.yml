@@ -39,7 +39,8 @@ apis:
   - name: Word Cloud
     description: "Easily create word clouds"
     humanURL: https://wordcloudapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
